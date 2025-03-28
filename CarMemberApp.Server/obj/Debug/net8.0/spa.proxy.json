@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:55584",
 "RedirectUrl": "",
 "LaunchCommand": "npm run dev",
-"WorkingDirectory": "C:\\Users\\amena\\Desktop\\CAR'MEMBER Projet\\CarMemberApp\\CarMemberApp.Server\\..\\carmemberapp.client",
+"WorkingDirectory": "C:\\Users\\Administrateur\\Documents\\ProjetFilRouge\\Car-member-App\\CarMemberApp.Server\\..\\carmemberapp.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }
